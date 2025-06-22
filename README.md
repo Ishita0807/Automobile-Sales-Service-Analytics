@@ -8,8 +8,8 @@ This project analyzes a fictional automobile company's sales and service data us
 ## 📁 Project Overview
 
 - 📊 Exploratory Data Analysis (EDA) on two datasets:
-  - `automobile_sales.csv` — 100 records of sales data
-  - `automobile_service.csv` — 100 service and satisfaction records
+  - `automobile_sales.csv` — Sales data records
+  - `automobile_service.csv` — service and satisfaction records
 - 🧰 Tools Used: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Google Colab`
 - 🗃️ Skills Demonstrated: Data cleaning, grouping, plotting, insight generation, markdown documentation
 
