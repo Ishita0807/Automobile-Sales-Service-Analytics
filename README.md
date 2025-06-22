@@ -21,7 +21,7 @@ This project analyzes a fictional automobile company's sales and service data us
 |------|-------------|
 | `automobile_sales.csv` | Generated sales data |
 | `automobile_service.csv` | Generated service data |
-| `colab_notebook.ipynb` | Full notebook with code and visualizations |
+| `EDA.ipynb` | Full notebook with code and visualizations |
 | `README.md` | Project summary and conclusions |
 
 ---
