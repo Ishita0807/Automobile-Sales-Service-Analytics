@@ -1,0 +1,101 @@
+Sale_ID,Date,Region,Dealer_Name,Vehicle_Model,Brand,Price,Quantity,Sale_Type
+S001,2023-12-01,West,Wheels Auto,Sonet,Kia,814440,1,Used
+S002,2023-10-20,East,SpeedX,Sonet,Kia,1129495,1,New
+S003,2023-04-01,West,SpeedX,Seltos,Kia,1224916,1,Used
+S004,2023-03-22,South,DriveNow,Seltos,Kia,1543512,1,Used
+S005,2023-06-22,South,Metro Cars,EV6,Kia,975711,1,New
+S006,2023-02-19,West,Metro Cars,i20,Hyundai,1828645,1,New
+S007,2023-10-29,South,SpeedX,Carens,Kia,1665228,1,Used
+S008,2023-11-12,North,Wheels Auto,Safari,Tata,1733666,1,New
+S009,2023-04-18,South,DriveNow,Harrier,Tata,905291,1,New
+S010,2023-07-24,South,Wheels Auto,Safari,Tata,1945471,1,New
+S011,2023-12-04,North,Elite Motors,Brezza,Maruti,1367586,1,New
+S012,2023-06-21,East,Elite Motors,i20,Hyundai,1331127,1,New
+S013,2023-03-30,North,SpeedX,Baleno,Maruti,1581446,1,New
+S014,2023-12-23,South,Elite Motors,Venue,Hyundai,601220,1,Used
+S015,2023-07-15,West,Elite Motors,Brezza,Maruti,1013580,1,Used
+S016,2023-05-25,South,DriveNow,Swift,Maruti,717571,1,Used
+S017,2023-10-02,South,Elite Motors,Safari,Tata,1540149,1,Used
+S018,2023-11-08,North,DriveNow,Verna,Hyundai,953788,1,New
+S019,2023-04-24,North,Elite Motors,Venue,Hyundai,1112776,1,Used
+S020,2023-04-17,East,Elite Motors,Sonet,Kia,1513551,1,New
+S021,2023-07-10,South,SpeedX,Carens,Kia,772615,1,New
+S022,2023-10-29,East,DriveNow,Swift,Maruti,1017133,1,Used
+S023,2023-11-05,North,SpeedX,Harrier,Tata,1005740,1,New
+S024,2023-03-12,West,DriveNow,i20,Hyundai,647641,1,Used
+S025,2023-04-09,North,Metro Cars,Dzire,Maruti,1686094,1,Used
+S026,2023-10-20,West,SpeedX,EV6,Kia,1301976,1,Used
+S027,2023-01-26,North,Elite Motors,Harrier,Tata,928391,1,New
+S028,2023-08-10,East,Elite Motors,i20,Hyundai,1256990,1,New
+S029,2023-12-02,West,Elite Motors,Carens,Kia,1173585,1,New
+S030,2023-06-18,South,Wheels Auto,Tiago,Tata,1853435,1,New
+S031,2023-12-13,South,Elite Motors,Sonet,Kia,1726098,1,New
+S032,2023-09-01,South,SpeedX,Sonet,Kia,1049419,1,Used
+S033,2023-02-22,South,DriveNow,Tiago,Tata,1871998,1,New
+S034,2023-12-15,North,Elite Motors,Creta,Hyundai,706341,1,New
+S035,2023-12-29,East,Wheels Auto,Verna,Hyundai,1838640,1,New
+S036,2023-07-07,West,Metro Cars,Sonet,Kia,1921565,1,New
+S037,2023-06-08,West,Metro Cars,Safari,Tata,1627802,1,Used
+S038,2023-12-25,South,DriveNow,Seltos,Kia,1432202,1,New
+S039,2023-08-28,South,Wheels Auto,Harrier,Tata,1224542,1,New
+S040,2023-03-23,South,Metro Cars,Venue,Hyundai,1786142,1,New
+S041,2023-01-06,West,DriveNow,Nexon,Tata,1166577,1,New
+S042,2023-10-11,West,Metro Cars,Seltos,Kia,892675,1,New
+S043,2023-12-29,North,DriveNow,Seltos,Kia,1653508,1,New
+S044,2023-11-08,East,DriveNow,Safari,Tata,600363,1,Used
+S045,2023-09-15,North,Elite Motors,Nexon,Tata,1213459,1,Used
+S046,2023-02-22,East,DriveNow,Baleno,Maruti,1834964,1,Used
+S047,2023-04-05,East,Elite Motors,Baleno,Maruti,1044109,1,New
+S048,2023-05-10,West,DriveNow,Creta,Hyundai,1808355,1,Used
+S049,2023-08-27,West,Wheels Auto,EV6,Kia,828953,1,New
+S050,2023-10-20,North,Metro Cars,Nexon,Tata,1368408,1,Used
+S051,2023-10-03,East,Wheels Auto,Sonet,Kia,1367843,1,Used
+S052,2023-04-21,North,SpeedX,Seltos,Kia,1747909,1,Used
+S053,2023-01-31,East,Elite Motors,EV6,Kia,1855229,1,Used
+S054,2023-06-07,East,SpeedX,Venue,Hyundai,1538974,1,New
+S055,2023-02-28,North,Metro Cars,Nexon,Tata,1003631,1,Used
+S056,2023-01-07,North,Wheels Auto,EV6,Kia,919246,1,New
+S057,2023-03-16,East,Elite Motors,Nexon,Tata,1437017,1,New
+S058,2023-02-05,East,Metro Cars,EV6,Kia,836209,1,New
+S059,2023-08-15,West,Metro Cars,Venue,Hyundai,1414178,1,Used
+S060,2023-10-12,South,SpeedX,Brezza,Maruti,823482,1,New
+S061,2023-06-08,East,Wheels Auto,Tiago,Tata,980458,1,Used
+S062,2023-08-17,South,SpeedX,Safari,Tata,1937194,1,Used
+S063,2023-04-24,South,Elite Motors,Safari,Tata,1719569,1,Used
+S064,2023-10-11,South,Metro Cars,Venue,Hyundai,1112970,1,Used
+S065,2023-07-27,West,Elite Motors,Dzire,Maruti,1128330,1,New
+S066,2023-02-01,West,Metro Cars,Tiago,Tata,1445240,1,Used
+S067,2023-06-04,West,Wheels Auto,Sonet,Kia,1491818,1,New
+S068,2023-11-04,East,SpeedX,Seltos,Kia,1752823,1,Used
+S069,2023-07-16,East,Elite Motors,Seltos,Kia,873827,1,Used
+S070,2023-06-25,East,Wheels Auto,Nexon,Tata,633795,1,Used
+S071,2023-10-07,West,Metro Cars,i20,Hyundai,892308,1,New
+S072,2023-03-23,West,SpeedX,i20,Hyundai,1724938,1,Used
+S073,2023-09-22,West,SpeedX,Tiago,Tata,636139,1,Used
+S074,2023-04-26,West,Wheels Auto,Sonet,Kia,1039110,1,New
+S075,2023-10-05,East,Wheels Auto,Verna,Hyundai,1737180,1,Used
+S076,2023-01-07,West,DriveNow,i20,Hyundai,1937967,1,Used
+S077,2023-05-02,North,DriveNow,Verna,Hyundai,1763473,1,Used
+S078,2023-11-25,West,Metro Cars,Swift,Maruti,1030314,1,Used
+S079,2023-05-05,South,Elite Motors,Safari,Tata,1067247,1,Used
+S080,2023-06-05,East,Wheels Auto,Safari,Tata,1204152,1,New
+S081,2023-06-13,East,Elite Motors,Seltos,Kia,1770180,1,Used
+S082,2023-08-26,North,SpeedX,Seltos,Kia,1402052,1,Used
+S083,2023-02-11,North,Metro Cars,Nexon,Tata,1674723,1,New
+S084,2023-03-01,South,Elite Motors,Harrier,Tata,729249,1,New
+S085,2023-12-03,South,Wheels Auto,Sonet,Kia,1618624,1,New
+S086,2023-05-31,West,Elite Motors,Venue,Hyundai,1438801,1,Used
+S087,2023-03-28,East,DriveNow,Creta,Hyundai,1410124,1,New
+S088,2023-12-22,South,Wheels Auto,Tiago,Tata,1526619,1,Used
+S089,2023-03-28,South,SpeedX,Harrier,Tata,1375959,1,Used
+S090,2023-12-28,North,SpeedX,Harrier,Tata,601904,1,New
+S091,2023-09-24,East,DriveNow,Seltos,Kia,1695439,1,New
+S092,2023-01-06,East,SpeedX,Venue,Hyundai,642621,1,Used
+S093,2023-05-07,East,Wheels Auto,Brezza,Maruti,1603432,1,New
+S094,2023-06-12,East,Elite Motors,Tiago,Tata,1112376,1,New
+S095,2023-05-05,South,Wheels Auto,Safari,Tata,628652,1,Used
+S096,2023-07-13,North,DriveNow,Swift,Maruti,1081617,1,Used
+S097,2023-05-08,West,Elite Motors,Sonet,Kia,1471232,1,Used
+S098,2023-02-18,East,Elite Motors,Baleno,Maruti,1999956,1,Used
+S099,2023-12-24,South,Elite Motors,Brezza,Maruti,1501237,1,New
+S100,2023-01-03,East,Metro Cars,EV6,Kia,1648791,1,New
