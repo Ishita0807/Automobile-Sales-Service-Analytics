@@ -1,25 +1,23 @@
 # Automobile Sales & Service Data Analysis
 
-This project analyzes a fictional automobile company's sales and service data using Python. It showcases data wrangling, visualization, and insight generation — ideal for demonstrating data analytics skills for fresher-level roles.
+This project explores sales and service data from a fictional automobile company using Python. It demonstrates core data analytics skills such as data cleaning, visualization, trend analysis, and insight generation. 
 
 ---
 
 ## 📁 Project Overview
 
 -  Exploratory Data Analysis (EDA) on two datasets:
-  - `automobile_sales.csv` — 100 records of sales data
-  - `automobile_service.csv` — 100 service and satisfaction records
+  - `automobile_sales.csv` — Sales data records
+  - `automobile_service.csv` — Service and satisfaction records
 -  Tools Used: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Google Colab`
--  Skills Demonstrated: Data cleaning, grouping, plotting, insight generation, markdown documentation
-
 ---
 
 ## 📂 Files
 
 | File | Description |
 |------|-------------|
-| `automobile_sales.csv` | Generated sales data |
-| `automobile_service.csv` | Generated service data |
+| `automobile_sales.csv` | Contains sales data |
+| `automobile_service.csv` | Contains service data |
 | `colab_notebook.ipynb` | Full notebook with code and visualizations |
 | `README.md` | Project summary and conclusions |
 
