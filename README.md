@@ -1,5 +1,4 @@
-# Automobile-Sales-Service-Analytics
-
+# Automobile Sales & Service Data Analysis
 
 This project analyzes a fictional automobile company's sales and service data using Python. It showcases data wrangling, visualization, and insight generation — ideal for demonstrating data analytics skills for fresher-level roles.
 
@@ -7,11 +6,11 @@ This project analyzes a fictional automobile company's sales and service data us
 
 ## 📁 Project Overview
 
-- 📊 Exploratory Data Analysis (EDA) on two datasets:
-  - `automobile_sales.csv` — Sales data records
-  - `automobile_service.csv` — service and satisfaction records
-- 🧰 Tools Used: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Google Colab`
-- 🗃️ Skills Demonstrated: Data cleaning, grouping, plotting, insight generation, markdown documentation
+-  Exploratory Data Analysis (EDA) on two datasets:
+  - `automobile_sales.csv` — 100 records of sales data
+  - `automobile_service.csv` — 100 service and satisfaction records
+-  Tools Used: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Google Colab`
+-  Skills Demonstrated: Data cleaning, grouping, plotting, insight generation, markdown documentation
 
 ---
 
@@ -21,43 +20,43 @@ This project analyzes a fictional automobile company's sales and service data us
 |------|-------------|
 | `automobile_sales.csv` | Generated sales data |
 | `automobile_service.csv` | Generated service data |
-| `EDA.ipynb` | Full notebook with code and visualizations |
+| `colab_notebook.ipynb` | Full notebook with code and visualizations |
 | `README.md` | Project summary and conclusions |
 
 ---
 
 ## 📊 Key Insights
 
-- **Monthly Sales Revenue**: Sales peak in **April** and **August**, with a dip in **June–July**.
-- **Sales by Region**: **North** is the highest-revenue region, followed by **West**, **East**, and **South**.
-- **Sales by Brand**: **Maruti** leads in revenue, followed by **Hyundai**, **Tata**, and **Kia**.
-- **Common Service Issues**: Most frequent issues include **Suspension Problems** and **Transmission Lag**.
-- **Satisfaction vs Resolution Time**: No clear correlation found — satisfaction varies regardless of time taken.
+- **Monthly Sales Revenue**: Sales peaked in **December** and **October**, with a dip in **September**.
+- **Sales by Region**: The **East** region led in revenue, followed by **South**, **West**, and **North**.
+- **Sales by Brand**: **Kia** generated the highest revenue, followed by **Tata**, **Hyundai**, and **Maruti**.
+- **Common Service Issues**: The top complaints were **Transmission Lag**, **Engine Overheat**, and **Brake Issues**.
+- **Customer Satisfaction vs. Resolution Time**: No strong linear relationship found, indicating satisfaction depends on more than just speed.
 - **Dealer Performance**:
-  - **Elite Motors**: Highest sales and customer satisfaction
-  - **DriveNow**: Lowest sales and customer satisfaction
+  - **Elite Motors** had the highest total sales and customer satisfaction.
+  - **Metro Cars** had the lowest average satisfaction score.
 
 ---
 
 ## ✅ Recommendations
 
-1. **Promote Sales in Low-Performing Months**  
-   Consider running targeted marketing campaigns in June and July.
+1. **Leverage Seasonal Demand Peaks**  
+   Boost inventory and run targeted promotions leading up to **October and December**, when demand naturally spikes.
 
-2. **Invest in High-Potential Regions**  
-   Expand presence in the North and West to boost revenue further.
+2. **Expand in the East Region**  
+   The East region shows high sales potential. Consider opening new outlets or enhancing service quality there.
 
-3. **Focus on Maruti & Hyundai Models**  
-   These brands drive the majority of revenue and should be prioritized.
+3. **Strengthen Brand Strategy Around Kia and Tata**  
+   Kia and Tata are top performers. Focus marketing efforts on their newer models and after-sales services.
 
-4. **Improve Service for Common Issues**  
-   Address Suspension and Transmission-related issues proactively to reduce complaints.
+4. **Address Core Service Complaints**  
+   Prioritize resolving **Transmission**, **Engine**, and **Brake** issues by retraining technicians and improving part availability.
 
-5. **Enhance Overall Customer Experience**  
-   Train service staff on communication and support — not just speed — for better satisfaction.
+5. **Improve Service Quality Beyond Speed**  
+   Since customer satisfaction isn’t tied to speed alone, focus on better communication, transparency, and support.
 
-6. **Leverage Elite Motors' Strategy**  
-   Study and replicate practices from high-performing dealers across others like DriveNow.
+6. **Replicate Elite Motors’ Practices**  
+   Use Elite Motors as a benchmark for training and operations. Intervene at **Metro Cars** with service quality audits and staff upskilling.
 
 ---
 
@@ -67,5 +66,5 @@ You can run the project directly on [Google Colab](https://colab.research.google
 
 ```bash
 1. Open Colab
-2. Upload the notebook + both CSV files
-3. Run all cells to regenerate the analysis
+2. Upload the notebook and both CSV files
+3. Run all cells to generate the visualizations and insights
