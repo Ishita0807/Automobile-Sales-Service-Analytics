@@ -1,0 +1,101 @@
+Service_ID,Date,Region,Dealer_Name,Vehicle_Model,Issue_Type,Cost,Resolution_Time_Hrs,Customer_Satisfaction,Year,Month,Quarter
+SV001,2023-03-27,South,Wheels Auto,Nexon,AC Failure,3025,11,4,2023,3,1
+SV002,2023-06-16,South,Elite Motors,Baleno,Suspension Problem,7932,11,4,2023,6,2
+SV003,2023-09-08,South,Elite Motors,Carens,Battery Fault,7372,5,5,2023,9,3
+SV004,2023-11-20,East,Metro Cars,Nexon,AC Failure,1272,10,5,2023,11,4
+SV005,2023-11-25,North,Metro Cars,Tiago,Engine Overheat,3004,11,5,2023,11,4
+SV006,2023-11-10,East,DriveNow,Harrier,Brake Issue,1106,11,2,2023,11,4
+SV007,2023-06-14,West,Metro Cars,EV6,Brake Issue,3798,6,1,2023,6,2
+SV008,2023-10-03,East,Wheels Auto,Swift,Battery Fault,4242,11,2,2023,10,4
+SV009,2023-07-08,South,DriveNow,Seltos,AC Failure,2114,5,2,2023,7,3
+SV010,2023-12-17,East,DriveNow,Verna,AC Failure,7092,11,5,2023,12,4
+SV011,2023-12-03,North,DriveNow,Dzire,Engine Overheat,2076,3,5,2023,12,4
+SV012,2023-03-11,East,SpeedX,Seltos,Engine Overheat,1971,12,4,2023,3,1
+SV013,2023-01-05,West,SpeedX,EV6,Engine Overheat,4237,5,5,2023,1,1
+SV014,2023-01-10,West,Wheels Auto,Sonet,Brake Issue,4666,11,4,2023,1,1
+SV015,2023-10-12,North,SpeedX,Carens,Suspension Problem,6008,8,2,2023,10,4
+SV016,2023-01-16,South,DriveNow,Dzire,Suspension Problem,4557,6,5,2023,1,1
+SV017,2023-04-28,South,SpeedX,Venue,Transmission Lag,4535,11,4,2023,4,2
+SV018,2023-03-26,East,Wheels Auto,Seltos,AC Failure,5880,7,5,2023,3,1
+SV019,2023-01-21,South,DriveNow,EV6,Suspension Problem,3960,11,5,2023,1,1
+SV020,2023-02-12,East,DriveNow,Swift,Brake Issue,4473,9,5,2023,2,1
+SV021,2023-04-01,West,Wheels Auto,Tiago,Engine Overheat,2310,2,5,2023,4,2
+SV022,2023-08-15,West,DriveNow,Carens,Suspension Problem,4277,11,2,2023,8,3
+SV023,2023-05-26,North,DriveNow,Sonet,Transmission Lag,6086,4,3,2023,5,2
+SV024,2023-12-17,North,Elite Motors,Harrier,Suspension Problem,1248,11,3,2023,12,4
+SV025,2023-05-08,North,Wheels Auto,Carens,AC Failure,2188,3,4,2023,5,2
+SV026,2023-03-14,North,DriveNow,Creta,AC Failure,6174,7,1,2023,3,1
+SV027,2023-05-21,South,Metro Cars,Carens,AC Failure,3338,3,1,2023,5,2
+SV028,2023-07-25,South,Elite Motors,Nexon,Brake Issue,2236,2,4,2023,7,3
+SV029,2023-10-11,East,Metro Cars,Venue,Engine Overheat,7254,4,5,2023,10,4
+SV030,2023-12-23,East,Elite Motors,Dzire,Transmission Lag,3021,6,5,2023,12,4
+SV031,2023-04-15,West,DriveNow,Venue,Transmission Lag,4241,3,1,2023,4,2
+SV032,2023-11-08,North,Wheels Auto,Sonet,AC Failure,5483,6,1,2023,11,4
+SV033,2023-09-01,West,Wheels Auto,Dzire,AC Failure,2689,7,4,2023,9,3
+SV034,2023-02-01,North,Metro Cars,Brezza,Transmission Lag,2114,4,1,2023,2,1
+SV035,2023-02-06,South,Metro Cars,Carens,Battery Fault,5085,8,1,2023,2,1
+SV036,2023-06-23,South,Wheels Auto,Nexon,Battery Fault,3573,2,2,2023,6,2
+SV037,2023-11-30,East,SpeedX,Creta,Battery Fault,5730,10,5,2023,11,4
+SV038,2023-11-12,East,Wheels Auto,Seltos,AC Failure,7663,7,4,2023,11,4
+SV039,2023-06-17,West,SpeedX,Tiago,Battery Fault,1723,10,4,2023,6,2
+SV040,2023-03-17,North,Metro Cars,Baleno,Transmission Lag,1541,6,2,2023,3,1
+SV041,2023-05-13,North,Elite Motors,Venue,Transmission Lag,2114,7,4,2023,5,2
+SV042,2023-04-14,South,Elite Motors,Verna,Engine Overheat,1333,2,1,2023,4,2
+SV043,2023-12-02,West,SpeedX,Dzire,Brake Issue,5736,9,1,2023,12,4
+SV044,2023-03-16,South,Wheels Auto,Tiago,Suspension Problem,4359,6,5,2023,3,1
+SV045,2023-12-09,South,SpeedX,i20,Transmission Lag,7901,3,3,2023,12,4
+SV046,2023-03-27,South,Wheels Auto,Nexon,Battery Fault,5409,4,2,2023,3,1
+SV047,2023-08-15,West,Wheels Auto,Nexon,Brake Issue,3841,11,3,2023,8,3
+SV048,2023-03-13,East,DriveNow,Nexon,Transmission Lag,4770,3,4,2023,3,1
+SV049,2023-08-14,East,Wheels Auto,Nexon,Brake Issue,5885,2,2,2023,8,3
+SV050,2023-04-05,South,SpeedX,Sonet,Suspension Problem,3167,11,2,2023,4,2
+SV051,2023-10-02,East,Wheels Auto,Swift,Engine Overheat,1673,8,3,2023,10,4
+SV052,2023-07-12,North,Wheels Auto,Swift,Battery Fault,3132,9,2,2023,7,3
+SV053,2023-01-28,North,SpeedX,Brezza,Brake Issue,4478,3,2,2023,1,1
+SV054,2023-03-01,East,Elite Motors,Verna,AC Failure,5201,12,4,2023,3,1
+SV055,2023-03-25,North,Metro Cars,i20,Engine Overheat,3571,4,3,2023,3,1
+SV056,2023-01-09,South,SpeedX,Safari,Transmission Lag,3258,11,5,2023,1,1
+SV057,2023-10-25,South,Metro Cars,Swift,Transmission Lag,7105,4,1,2023,10,4
+SV058,2023-06-16,North,SpeedX,Dzire,Engine Overheat,4382,3,3,2023,6,2
+SV059,2023-12-03,North,SpeedX,i20,Battery Fault,2768,4,2,2023,12,4
+SV060,2023-01-04,South,Metro Cars,Nexon,Battery Fault,5068,6,4,2023,1,1
+SV061,2023-06-10,South,DriveNow,Seltos,Brake Issue,3268,4,5,2023,6,2
+SV062,2023-06-14,North,DriveNow,Venue,Transmission Lag,3228,2,3,2023,6,2
+SV063,2023-07-26,South,Metro Cars,EV6,Transmission Lag,1804,9,2,2023,7,3
+SV064,2023-04-01,North,DriveNow,Creta,Transmission Lag,7461,5,4,2023,4,2
+SV065,2023-05-06,East,DriveNow,Sonet,Engine Overheat,2773,8,1,2023,5,2
+SV066,2023-08-06,North,Metro Cars,Nexon,Engine Overheat,2901,3,2,2023,8,3
+SV067,2023-05-02,West,Elite Motors,Sonet,Brake Issue,6894,9,5,2023,5,2
+SV068,2023-11-21,South,DriveNow,Dzire,Brake Issue,2591,10,3,2023,11,4
+SV069,2023-01-12,East,SpeedX,Harrier,Battery Fault,7937,3,2,2023,1,1
+SV070,2023-11-09,South,DriveNow,Baleno,Brake Issue,4615,5,3,2023,11,4
+SV071,2023-04-26,West,Metro Cars,Verna,Engine Overheat,2097,8,4,2023,4,2
+SV072,2023-09-17,West,Metro Cars,i20,Transmission Lag,7776,8,5,2023,9,3
+SV073,2023-11-17,North,DriveNow,Verna,Brake Issue,5897,9,1,2023,11,4
+SV074,2023-02-10,West,Elite Motors,Verna,Engine Overheat,5105,9,2,2023,2,1
+SV075,2023-02-11,South,Metro Cars,Venue,Suspension Problem,6040,8,3,2023,2,1
+SV076,2023-12-21,East,SpeedX,Carens,AC Failure,7704,12,4,2023,12,4
+SV077,2023-03-30,West,Wheels Auto,Venue,Engine Overheat,7402,2,1,2023,3,1
+SV078,2023-11-18,North,Wheels Auto,Safari,Transmission Lag,6746,7,3,2023,11,4
+SV079,2023-04-09,North,Elite Motors,EV6,Brake Issue,5620,2,5,2023,4,2
+SV080,2023-08-09,East,Metro Cars,Carens,Brake Issue,1310,12,4,2023,8,3
+SV081,2023-04-12,East,Elite Motors,Harrier,Engine Overheat,4670,4,4,2023,4,2
+SV082,2023-04-30,East,Wheels Auto,Carens,Battery Fault,6000,10,4,2023,4,2
+SV083,2023-08-26,North,Elite Motors,Swift,Suspension Problem,5025,6,2,2023,8,3
+SV084,2023-10-12,North,DriveNow,Swift,Transmission Lag,2787,12,1,2023,10,4
+SV085,2023-09-18,East,Metro Cars,Nexon,Transmission Lag,5039,5,3,2023,9,3
+SV086,2023-12-06,North,Elite Motors,EV6,Suspension Problem,2390,5,1,2023,12,4
+SV087,2023-12-06,South,Wheels Auto,Creta,Transmission Lag,3143,9,5,2023,12,4
+SV088,2023-10-14,South,DriveNow,Sonet,Suspension Problem,2482,6,3,2023,10,4
+SV089,2023-01-12,East,Metro Cars,EV6,AC Failure,2388,3,2,2023,1,1
+SV090,2023-02-07,South,Elite Motors,EV6,Suspension Problem,5778,12,5,2023,2,1
+SV091,2023-09-06,East,SpeedX,Carens,Transmission Lag,2273,12,4,2023,9,3
+SV092,2023-04-21,South,DriveNow,Carens,Brake Issue,3567,12,2,2023,4,2
+SV093,2023-01-13,North,Elite Motors,EV6,Battery Fault,7282,5,5,2023,1,1
+SV094,2023-03-28,North,Metro Cars,Venue,Battery Fault,7616,6,3,2023,3,1
+SV095,2023-10-06,South,SpeedX,Sonet,AC Failure,1104,12,4,2023,10,4
+SV096,2023-06-16,East,Wheels Auto,i20,Transmission Lag,5259,2,3,2023,6,2
+SV097,2023-12-02,West,SpeedX,EV6,Transmission Lag,5211,3,4,2023,12,4
+SV098,2023-08-12,East,Metro Cars,i20,Suspension Problem,4021,8,3,2023,8,3
+SV099,2023-05-21,South,Elite Motors,Nexon,Engine Overheat,5685,7,4,2023,5,2
+SV100,2023-03-20,East,Metro Cars,Venue,Battery Fault,1594,9,3,2023,3,1
